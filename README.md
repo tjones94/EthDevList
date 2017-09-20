@@ -1,4 +1,4 @@
-# EthList: Resources for developing using Ethereum</p>
+# EthDevList: Resources for Dveloping Using Ethereum</p>
 ### Add a resource by submitting a Pull Request
 
 
