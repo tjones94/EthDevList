@@ -5,12 +5,12 @@
 
 ## Introduction
 
-#### Master Resource List
-https://github.com/Scanate/EthList
+#### Main Resources
 
 
 
 
-- [Link Head
-](url
+- [Master resource - Scanate's EthList
+](https://github.com/Scanate/EthList
+
 )
