@@ -1,15 +1,16 @@
 # EthList: Resources for developing using Ethereum</p>
-### Found a great resource? Add it by submitting a Pull Request!
+### Add a resource by submitting a Pull Request
 
 
 
 ## Introduction
 
-#### section head
+#### Master Resource List
+https://github.com/Scanate/EthList
 
 
 
 
-- [Easy Guide to Using Ethereum
-](https://medium.com/ethertime/the-easy-guide-to-using-ethereum-d482b6c3d3a4
+- [Link Head
+](url
 )
