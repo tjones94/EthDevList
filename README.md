@@ -11,6 +11,4 @@
 
 
 - [Master resource - Scanate's EthList
-](https://github.com/Scanate/EthList
-
-)
+](https://github.com/Scanate/EthList)
